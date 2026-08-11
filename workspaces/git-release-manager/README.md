@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# Git Release Manager plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for managing software releases from Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [git-release-manager](./plugins/git-release-manager/README.md)

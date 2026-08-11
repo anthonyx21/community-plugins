@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# Splunk On-Call plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating Splunk On-Call data with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [splunk-on-call](./plugins/splunk-on-call/README.md)

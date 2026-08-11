@@ -1,10 +1,8 @@
-# [Backstage](https://backstage.io)
+# Stack Overflow plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating Stack Overflow questions and answers with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [stack-overflow](./plugins/stack-overflow/README.md)
+- [stack-overflow-backend](./plugins/stack-overflow-backend/README.md)

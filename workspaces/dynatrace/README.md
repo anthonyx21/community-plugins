@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# Dynatrace plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating Dynatrace observability data with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [dynatrace](./plugins/dynatrace/README.md)

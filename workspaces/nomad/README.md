@@ -1,10 +1,8 @@
-# [Backstage](https://backstage.io)
+# Nomad plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating HashiCorp Nomad workloads with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [nomad](./plugins/nomad/README.md)
+- [nomad-backend](./plugins/nomad-backend/README.md)

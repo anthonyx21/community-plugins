@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# Microsoft Calendar plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for displaying Microsoft Calendar events in Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [microsoft-calendar](./plugins/microsoft-calendar/README.md)

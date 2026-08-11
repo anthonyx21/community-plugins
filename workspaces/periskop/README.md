@@ -1,10 +1,8 @@
-# [Backstage](https://backstage.io)
+# Periskop plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating Periskop application health data with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [periskop](./plugins/periskop/README.md)
+- [periskop-backend](./plugins/periskop-backend/README.md)

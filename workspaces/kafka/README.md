@@ -1,10 +1,8 @@
-# [Backstage](https://backstage.io)
+# Kafka plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating Apache Kafka topic information with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [kafka](./plugins/kafka/README.md)
+- [kafka-backend](./plugins/kafka-backend/README.md)

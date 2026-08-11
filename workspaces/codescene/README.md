@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# CodeScene plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating CodeScene engineering intelligence with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [codescene](./plugins/codescene/README.md)

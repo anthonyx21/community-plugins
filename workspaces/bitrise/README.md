@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# Bitrise plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating Bitrise build and deployment data with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [bitrise](./plugins/bitrise/README.md)

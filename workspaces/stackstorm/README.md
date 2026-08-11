@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# StackStorm plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating StackStorm automation with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [stackstorm](./plugins/stackstorm/README.md)

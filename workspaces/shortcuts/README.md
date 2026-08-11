@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# Shortcuts plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating Shortcut project management data with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [shortcuts](./plugins/shortcuts/README.md)

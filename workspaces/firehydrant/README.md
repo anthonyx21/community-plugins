@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# FireHydrant plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating FireHydrant incident management data with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [firehydrant](./plugins/firehydrant/README.md)

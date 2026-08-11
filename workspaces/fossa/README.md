@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# FOSSA plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating FOSSA open-source license and security data with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [fossa](./plugins/fossa/README.md)

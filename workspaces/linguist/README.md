@@ -1,10 +1,10 @@
-# [Backstage](https://backstage.io)
+# Linguist plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for displaying repository language statistics in Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [linguist](./plugins/linguist/README.md)
+- [linguist-backend](./plugins/linguist-backend/README.md)
+- [linguist-common](./plugins/linguist-common/README.md)
+- [catalog-backend-module-linguist-tags-processor](./plugins/catalog-backend-module-linguist-tags-processor/README.md)

@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# GoCD plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating GoCD continuous delivery data with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [gocd](./plugins/gocd/README.md)

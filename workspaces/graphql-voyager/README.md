@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# GraphQL Voyager plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for visualizing GraphQL schemas in Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [graphql-voyager](./plugins/graphql-voyager/README.md)

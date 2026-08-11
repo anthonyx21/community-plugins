@@ -1,10 +1,9 @@
-# [Backstage](https://backstage.io)
+# Lighthouse plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for displaying Lighthouse performance and quality data in Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [lighthouse](./plugins/lighthouse/README.md)
+- [lighthouse-backend](./plugins/lighthouse-backend/README.md)
+- [lighthouse-common](./plugins/lighthouse-common/README.md)

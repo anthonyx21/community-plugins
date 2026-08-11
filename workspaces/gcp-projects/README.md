@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# Google Cloud Projects plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating Google Cloud project information with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [gcp-projects](./plugins/gcp-projects/README.md)

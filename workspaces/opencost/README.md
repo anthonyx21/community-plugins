@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# OpenCost plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for displaying Kubernetes and cloud cost data from OpenCost in Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [opencost](./plugins/opencost/README.md)

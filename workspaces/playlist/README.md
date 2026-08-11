@@ -1,10 +1,9 @@
-# [Backstage](https://backstage.io)
+# Playlist plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for managing playlists of Backstage catalog entities.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [playlist](./plugins/playlist/README.md)
+- [playlist-backend](./plugins/playlist-backend/README.md)
+- [playlist-common](./plugins/playlist-common/README.md)

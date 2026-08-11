@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# PuppetDB plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating PuppetDB node information with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [puppetdb](./plugins/puppetdb/README.md)

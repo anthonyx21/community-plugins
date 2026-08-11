@@ -1,10 +1,8 @@
-# [Backstage](https://backstage.io)
+# Code Coverage plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for displaying code coverage information in Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [code-coverage](./plugins/code-coverage/README.md)
+- [code-coverage-backend](./plugins/code-coverage-backend/README.md)

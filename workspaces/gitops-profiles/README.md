@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# GitOps Profiles plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for managing GitOps profiles from Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [gitops-profiles](./plugins/gitops-profiles/README.md)

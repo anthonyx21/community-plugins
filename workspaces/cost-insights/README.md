@@ -1,10 +1,8 @@
-# [Backstage](https://backstage.io)
+# Cost Insights plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for visualizing cloud costs and cost insights in Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [cost-insights](./plugins/cost-insights/README.md)
+- [cost-insights-common](./plugins/cost-insights-common/README.md)

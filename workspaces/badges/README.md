@@ -1,10 +1,8 @@
-# [Backstage](https://backstage.io)
+# Badges plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for displaying repository and project badges in Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [badges](./plugins/badges/README.md)
+- [badges-backend](./plugins/badges-backend/README.md)

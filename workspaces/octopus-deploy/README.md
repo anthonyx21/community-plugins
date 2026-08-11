@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# Octopus Deploy plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating Octopus Deploy release data with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [octopus-deploy](./plugins/octopus-deploy/README.md)

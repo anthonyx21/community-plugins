@@ -1,10 +1,8 @@
-# [Backstage](https://backstage.io)
+# New Relic plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating New Relic observability data with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [newrelic](./plugins/newrelic/README.md)
+- [newrelic-dashboard](./plugins/newrelic-dashboard/README.md)

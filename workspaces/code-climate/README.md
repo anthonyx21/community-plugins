@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# Code Climate plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating Code Climate data with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [code-climate](./plugins/code-climate/README.md)

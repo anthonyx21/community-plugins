@@ -1,10 +1,7 @@
-# [Backstage](https://backstage.io)
+# Cloud Build plugins for Backstage
 
-This is your newly scaffolded Backstage App, Good Luck!
+This workspace contains plugins for integrating Google Cloud Build with Backstage.
 
-To start the app, run:
+## Plugins
 
-```sh
-yarn install
-yarn start
-```
+- [cloudbuild](./plugins/cloudbuild/README.md)
